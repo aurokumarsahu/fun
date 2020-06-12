@@ -18,7 +18,9 @@ function a()
     if(inp==="sidhant"  || inp==="Sidhant" )
    
     	document.getElementById("disp").textContent="Hey Macyapp,what's up buddy! ";
-    
-    document.querySelector("h1").textContent=" ";
+    if(inp==="dadarnath" || inp="Dadarnath")
+
+    document.querySelector("h1").textContent="Dada,mauke kain hega je bahar kari dela";
+   
     
 }
