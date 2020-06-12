@@ -1,0 +1,20 @@
+body {
+    background-color:black;
+}
+input{
+    background-color:maroon;
+    border-radius:5px;
+    color:white;
+    text-align:center;
+}
+button{
+    background-color:yellow;
+    
+}
+#disp
+{
+    color:white;
+    font-size:40px;
+    text-align:center;
+    margin-top:50px;
+}
