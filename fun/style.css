@@ -14,7 +14,7 @@ button{
 #disp
 {
     color:white;
- 
+    width:auto;
     text-align:center;
     margin-top:50px;
 }
