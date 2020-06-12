@@ -20,7 +20,7 @@ function a()
     	document.getElementById("disp").textContent="Hey Macyapp,what's up buddy! ";
     if(inp==="dadarnath" || inp="Dadarnath")
 
-    document.querySelector("#disp").textContent="Dada,mauke kain hega je bahar kari dela";
+    document.getElementById("disp").textContent="Dada,mauke kain hega je bahar kari dela";
    
     
 }
